@@ -1,0 +1,2 @@
+# aosn
+Course bash scripts
