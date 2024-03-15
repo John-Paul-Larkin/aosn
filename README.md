@@ -1,2 +1,3 @@
 # aosn
-Course bash scripts
+
+Architecture, Operating systems and Networking bash scripts
